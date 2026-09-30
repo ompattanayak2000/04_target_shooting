@@ -129,12 +129,4 @@ Submission is only the following three things:
 - [ ] A 10-second video of gameplay **after** your changes, showing the bug fixed and the new features working
 - [ ] The Chat/LLM used page link, with the complete chat history
 
-## Lab 4 Video Demonstration
 
-### Before Changes
-
-<video src="./Screen%20Recording%202026-09-30%20110511.mp4" controls width="700"></video>
-
-### After Changes
-
-<video src="./Screen%20Recording%202026-09-30%20112637.mp4" controls width="700"></video>
