@@ -133,8 +133,8 @@ Submission is only the following three things:
 
 ### Before Changes
 
-[▶️ Watch Before Video](./Screen%20Recording%202026-09-30%20110511.mp4)
+<video src="./Screen%20Recording%202026-09-30%20110511.mp4" controls width="700"></video>
 
 ### After Changes
 
-[▶️ Watch After Video](./Screen%20Recording%202026-09-30%20112637.mp4)
+<video src="./Screen%20Recording%202026-09-30%20112637.mp4" controls width="700"></video>
